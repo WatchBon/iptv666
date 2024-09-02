@@ -237,8 +237,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" group-title="数字频道",爱体育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" group-title="数字频道",电影
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" group-title="数字频道",游戏风云
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="数字频道",都市剧场
